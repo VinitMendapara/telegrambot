@@ -32,9 +32,6 @@ python3 bot.py
 
 ## Supported Links : 
  - Direct Link
- - Mega.nz Link
- - openload link (disabled)
- - Dropbox Link
 
 ## Requirements
   - [Google Drive api Credential](https://console.cloud.google.com/apis/credentials) (Others type)  `Required`
